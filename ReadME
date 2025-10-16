@@ -46,21 +46,4 @@ It was developed as part of a **Software Technology** laboratory course at the *
 
 ---
 
-## 🧰 Installation & Setup
 
-### Prerequisites
-- [Node.js](https://nodejs.org/)  
-- [MongoDB](https://www.mongodb.com/)  
-- [Postman](https://www.postman.com/) (for testing endpoints)  
-
-### Steps
-```bash
-# 1. Clone the repository
-git clone https://github.com/DavisDimos/CONFERENCE_MANAGEMENT.git
-cd CONFERENCE_MANAGEMENT
-
-# 2. Install dependencies
-npm install
-
-# 3. Start the server
-npm start
